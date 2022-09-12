@@ -86,8 +86,8 @@ c)	Predicting active merchants that would churn.
 -	On testing the model used (Random Forest) gave a F1 Score of 91%.  
 -	We can go ahead and use the same model on the active merchants and see which might churn.  
 
-Possible Future Work. 
-•	Use clustering algorithms like the KMeans on the attributes to categories the merchants in buckets. Find the best k value using the knee graph.   
+### Possible Future Work.   
+•	Use clustering algorithms like the KMeans on the attributes to categories the merchants in buckets. Find the best k value using the knee graph.     
 •	Use another modeling technique to model churn merchants that might perform better.     
 •	Explore the combined dataset and not based on merchants, to get other insights.  
 •	Calculate churn based on revenue from the merchants.  
